@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+openai
+python-multipart
+pdfminer.six
+python-dotenv
+sqlalchemy
+alembic
+pytest
+python-pptx
+prometheus-client
